@@ -45,6 +45,10 @@ main{
     margin: 0 auto;
 }
 
+.experience-img img{
+    width: 500px;
+}
+
 .experience-section{
     display: flex;
     justify-content: space-around;
